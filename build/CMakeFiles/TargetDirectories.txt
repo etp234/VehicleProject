@@ -1,4 +1,0 @@
-D:/VehicleProject/build/CMakeFiles/VehicleApp.dir
-D:/VehicleProject/build/CMakeFiles/ALL_BUILD.dir
-D:/VehicleProject/build/CMakeFiles/ZERO_CHECK.dir
-D:/VehicleProject/build/lib/CMakeFiles/VehicleLib.dir
