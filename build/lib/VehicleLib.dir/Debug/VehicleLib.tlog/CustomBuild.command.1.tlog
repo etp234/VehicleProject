@@ -1,0 +1,10 @@
+^D:\VEHICLEPROJECT\LIB\CMAKELISTS.TXT
+setlocal
+D:\CMake\bin\cmake.exe -SD:/VehicleProject -BD:/VehicleProject/build --check-stamp-file D:/VehicleProject/build/lib/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

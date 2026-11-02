@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/VehicleProject/build/cmake_install.cmake",
+		"D:/VehicleProject/build/lib/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
